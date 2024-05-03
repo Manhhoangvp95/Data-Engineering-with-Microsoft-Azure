@@ -1,0 +1,9 @@
+{
+	"name": "manhh2-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "faf0ddfd-02e0-415e-96d7-27d8aa8fed6a",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
